@@ -1,6 +1,6 @@
 # DTU
 
-👨‍💻 First   Sem [Check](https://ajaykumardhurwe.github.io/mywebsite_V_1.0/)
+👨‍💻 First   Sem [Check](https://ajaykumardhurwe.github.io/mywebsite_V_1.0/)  
 
 👨‍💻 Second  ... [Check](https://ajaykumardhurwe.github.io/mywebsite_V_1.0/)
 
